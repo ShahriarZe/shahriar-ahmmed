@@ -1,6 +1,6 @@
 import './BannerStyles.css'
 import bannerImg from '../../assets/BannerImg.png'
-import secondVdo from '../../assets/secondVdo.mp4'
+import vdo from '../../assets/Vdo.mp4'
 const Banner = () => {
     return (
         <div>
@@ -27,7 +27,7 @@ const Banner = () => {
                     <p>Hello I am</p>
                     <h1><span className='lg:mr-16'>Shahriar</span> Ahmmed</h1>
                 </div>
-                <video className='smokeVido' src={secondVdo} autoPlay loop muted></video>
+                <video className='smokeVido' src={vdo} autoPlay loop muted></video>
             </div>
         </div>
     );
