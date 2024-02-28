@@ -14,7 +14,7 @@ const Banner = () => {
                     </div>
                     
                 </div>
-                <img className='mainImg' src={bannerImg} alt="" />
+                <img className='mainImg' src={bannerImg} alt="Main Image" />
                 <div className='mainTextDiv'>
                     <p>Hello I am</p>
                     <h1><span className='lg:mr-16'>Shahriar</span> Ahmmed</h1>
