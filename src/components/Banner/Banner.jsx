@@ -8,7 +8,7 @@ const Banner = () => {
                 <div className='subTextDiv'>
                     <div className='left'>
                         <div className='about text-white'>
-                            <h2 className='text-5xl font-bold mb-4'>A Full Stack Developer</h2>
+                            <h2 className='text-5xl font-bold mb-4'>A Full Stack Web Developer</h2>
                             <p className='text-2xl lg:w-1/2'>Aspiring Entry-Level Full Stack Developer committed to driving impactful change in web development. With a passion for excellence and a drive for advancement..</p>
                         </div>
                     </div>
