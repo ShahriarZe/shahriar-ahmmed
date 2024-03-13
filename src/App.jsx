@@ -1,3 +1,4 @@
+import About from "./components/About/About"
 import Banner from "./components/Banner/Banner"
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
   return (
     <>
      <Banner></Banner>
+     <About></About>
     </>
   )
 }
