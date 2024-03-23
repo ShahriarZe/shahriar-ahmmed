@@ -8,6 +8,7 @@ const Contact = () => {
             <h1>Download Resume</h1>
             <h1>Email</h1>
             <h1>Hire Me and contact me</h1>
+            <h2>Email me</h2>
         </div>
     );
 };
